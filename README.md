@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zohayb23
-- 👀 I’m interested in Coding, Basketball, Anime
+- 👀 I’m interested in Developing
 - 🌱 I’m currently learning how to code in java and other languages
 - 💞️ I’m looking to collaborate on projects and fun assignments 
 - 📫 How to reach me, through email.
