@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zohayb23
-- 📫 How to reach me, through email.
+- ✨ Love to be hands-on and make an impact on the world of opportunity in tech.
+- 📫 How to reach me: through email.
 zohayb23@gmail.com
 
 <!---
